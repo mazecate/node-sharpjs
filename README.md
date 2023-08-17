@@ -6,5 +6,5 @@ npm install && node index.js
 ```
 
 
-Reference:
+Reference:<br>
 https://www.digitalocean.com/community/tutorials/how-to-process-images-in-node-js-with-sharp
